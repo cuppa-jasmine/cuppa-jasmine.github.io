@@ -1,7 +1,9 @@
 ---
 layout: page
-title: ""
+title: "?"
 permalink: /about/
 ---
 
-Hammering on my keyboard with a steaming cup of tea in hand ~
+Hammering away on my keyboard, cup of tea at hand ~ all opinions are my own, and don't reflect those of my employers or anyone else 
+
+Instagram: @cuppa_jasmine
