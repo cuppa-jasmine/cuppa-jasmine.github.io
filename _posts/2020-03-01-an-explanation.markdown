@@ -5,7 +5,7 @@ date:   2020-03-01
 ---
 {:refdef: style="text-align: center;"}
 ![Jasmine blossoms tumble out of the author's grandmother's bra in Persepolis](/assets/persepolis.jpeg)  
-*<span style="background-color: #7CFC00">Jasmine blossoms tumble out of the author's grandmother's bra in Persepolis</span>*
+*Jasmine blossoms tumble out of the author's grandmother's bra in Persepolis*
 {: refdef}
 
 From my earlier schoolgirl encounter with Persepolis, I only remember the (female) protagonist/author trying to pee standing up. I devoured my aunt’s copy of the graphic novel when I visited her recently, and am still trying to organize my thoughts about the very engrossing narrative.

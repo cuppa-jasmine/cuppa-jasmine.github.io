@@ -7,5 +7,5 @@ I watched Frances Ha over two or three nights, each time after I’d decided to 
 
 {:refdef: style="text-align: center;"}
 ![Greta Gerwig's Frances runs on the streets of New York, just as Soirse Ronan's Jo March sprinted along them in another decade, under Gerwig's direction](/assets/francesha.png)  
-<span style="background-color: #7CFC00">*Greta Gerwig's Frances runs across the streets of New York, just as Soirse Ronan's Jo March later sprints long them under Gerwig's direction*<span style="background-color: #7CFC00">
+*Greta Gerwig's Frances runs across the streets of New York, just as Soirse Ronan's Jo March later sprints long them under Gerwig's direction*
 {: refdef}
