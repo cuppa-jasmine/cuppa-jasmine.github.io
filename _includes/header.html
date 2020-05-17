@@ -4,7 +4,7 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}" style="background-color:#2A1506;color:white">{{ site.title | escape }}</a>
-    <svg class="svg-icon"><use xlink:href="{{ '/assets/gifgit.png' | relative_url }}"></use></svg>
+    <img src="assets/gifgit.png" alt="flower logo" />
     {%- if page_paths -%}
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
