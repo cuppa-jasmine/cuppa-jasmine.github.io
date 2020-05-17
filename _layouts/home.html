@@ -16,7 +16,7 @@ layout: default
       <li>
         <div align="center">
           {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-          <span class="post-meta" style="background-color:#98fb98;color:#2A1506;font-style:oblique">{{ post.date | date: date_format }}</span>
+          <span class="post-meta" style="background-color:#98fb98;color:#2A1506;font-style:oblique;padding-left:5px;padding-right:5px">{{ post.date | date: date_format }}</span>
           <h2><span style="background-color:#2A1506;color:white;padding-left:10px;padding-right:10px;font-style:oblique">{{ post.title | escape }}</span></h2>
         </div>
         <div class="post">
